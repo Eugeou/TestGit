@@ -8,5 +8,4 @@ int main()
 	cout << "Nhap n: ";
 	cin >> n;
 
-	cout << " n + 1= " << n;
 }
